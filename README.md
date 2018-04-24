@@ -5,6 +5,6 @@ Stop looking for a string manipulation library or writting your own inexorably g
 
 Check out the user manual for the 45+ included functionalities.
 
-### [User manual](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String)
+### [User manual](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/prototype)
 
 ### [Further information](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
